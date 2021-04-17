@@ -1,4 +1,4 @@
-[ "Countries":
+{ "Countries":[
     {
       "name": "Russia",
       "flag": "f/f3/Flag_of_Russia.svg",
@@ -48,3 +48,4 @@
       "population": 1324171354
     }
 ]
+}
